@@ -1,0 +1,13 @@
+{
+  "Classe":"DEVOWFS201",
+  "Annee":2023,
+  "Cours":"Création d'un application cloud native",
+  "active":true,
+  "Formateur":{"Nom":"NAJI", "Prenom":"Mohammed"},
+  "Stagiaires":[
+			{"Nom":"Azayd", "Prenom":"kiki"},
+			{"Nom":"sasa", "Prenom":"Houssam"},
+			{"Nom":"Alouani", "Prenom":"Ismail"},
+			{"Nom":"Alouani", "Prenom":"Siham"}
+      ]
+}
